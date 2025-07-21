@@ -18,7 +18,7 @@ neovim
 ## some plugins
 - lazy "Packge menager"
 - treesitter "Syntax highlighting"
-- telescope "Searching files" and ao on...
+- telescope "Searching files" and so on...
 
 ## All commands lists
 - map leader
